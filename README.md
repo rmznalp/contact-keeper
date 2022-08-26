@@ -1,3 +1,3 @@
 # contact-keeper 
 
-A fullstack project with nodejs and react
+A full-stack project with nodejs and react
