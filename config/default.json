@@ -1,3 +1,4 @@
 {
-	"mongoURI": "mongodb+srv://rmznalp:qwe123@cluster0.n5siorb.mongodb.net/?retryWrites=true&w=majority"
+	"mongoURI": "mongodb+srv://rmznalp:qwe123@cluster0.n5siorb.mongodb.net/?retryWrites=true&w=majority",
+	"jwtSecret": "secret"
 }
